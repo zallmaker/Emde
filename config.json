@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6282384888024@s.whatsapp.net","6282384888024@s.whatsapp.net"],
+    "ownerName": "Pexstar",
+    "instagram" : "https://instagram.com/pexstarl47",
+    "gcwa" : "https://chat.whatsapp.com/HZoqr8hzSEhD5Lkv2eIe05",
+    "botName": "Pexstar-Mdོ ",
+    "footer": "2023 © niceadmin.zallreal.repl.co",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "https://api.zeeoneofc.my.id",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
